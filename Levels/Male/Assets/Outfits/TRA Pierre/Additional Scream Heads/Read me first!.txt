@@ -1,0 +1,8 @@
+
+- By default, the Bad Guy Scream Head is installed in the outfit. 
+
+- If you want to use the Amused version: Open the wad in WadMerger and copy the new head over the old one in your own wad. Save and enjoy!
+
+- If you want to use the Standard version: Open StrPix, look for Mesh #19 (Standard Head), File > Export MQO and save it
+in a place of your choice. Now look for Mesh #35 (Scream Head), File > Import MQO and overwrite the head with the new one
+you saved before. Save and enjoy!

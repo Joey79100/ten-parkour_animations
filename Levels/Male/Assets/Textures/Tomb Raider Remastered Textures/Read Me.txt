@@ -1,0 +1,30 @@
+Thank you for downloading my pack of all Tomb Raider Remastered Textures Pack made by JoshDun. 
+
+Please do leave a rating and a review (point out some mistakes if you find any in review, i will fix it).
+
+All textures are from files of steam version of TRI-III Remastered (thanks Shadoofus for providing the files). 
+
+Every texture sheet is in PNG file, roughly sorted by me (some mistakes might be present).
+
+All textures are resized to 256x256 format Tomb Engine uses. 
+
+Some textures might be missing due to files not being present (or didnt convert).
+
+Some textures are not possible due to 1 block using stacking textures at the same time which is not possible in Tomb Engine.
+
+Tomb Raider II Golden Mask expansion is all in one texture sheet, i wasnt sure which texture is from which level so i decided to put them together in one PNG.
+
+I decided to do some (not all of them) Water, Unsure, Sprites,Misc and Object textures PNGs if anybody needs them.
+
+Animating Sheet PNG has all textures for animation (including some new ones i made for fun).
+
+Old water textures were present in files but i didnt put them anywhere, if somebody need them i can put them into Animating Sheet and update the files.
+
+There are 3 zip versions (on my TRSearch) profile: 	
+	1. All PNG Textures
+	2. All PNG Textures and Photoshop Files (if you want to move textures around or change them slightly)
+	3. All PNG Textures, Photoshop Files and all PNG files from Steam Version (including older water textures, Object textures and Sprites that are not present in my PSD/PNG files).
+
+Cant wait your custom games with new textures, enjoy! :)
+
+				- Josh Dun
