@@ -20,6 +20,8 @@ Flow.SetTotalSecretCount(5)
 
 Flow.EnableFlyCheat(true)
 
+Flow.EnableLevelSelect(false)
+
 -- Import AudioTracks names
 
 local AudioTracks = require("Common/AudioTracks")
@@ -54,6 +56,6 @@ demo.loadScreenFile = "Screens\\black.jpg"
 
 demo.horizon = true
 demo.farView = 64
-demo.fog = Flow.Fog.new(Color.new(8, 10, 12), 16, 50)
+demo.fog = Flow.Fog.new(Color.new(6, 8, 10), 14, 40)
 
 Flow.AddLevel(demo)
