@@ -8,7 +8,7 @@ local settings = Flow.Settings.new()
 	settings.Animations.crouchRoll = true
 	settings.Animations.crawlspaceSwandive = true
 	settings.Animations.sprintJump = true
-	settings.Animations.ledgeJumps = false
+	settings.Animations.ledgeJumps = true
 	settings.Animations.poseTimeout = 0
 	
 	settings.Camera.binocularLightColor = Color(192, 192, 96)
@@ -30,7 +30,7 @@ local settings = Flow.Settings.new()
 	settings.Hud.speedometer = true
 	settings.Hud.pickupNotifier = true
 	
-	settings.Physics.gravity = 8
+	settings.Physics.gravity = 8.3
 	settings.Physics.swimVelocity = 50
 	
 	settings.System.errorMode = Flow.ErrorMode.WARN
